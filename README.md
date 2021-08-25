@@ -1,1 +1,4 @@
-hi there i am using git for fist time
+// practice my sql from basics
+// sample data 
+// questions 
+//answers //commands
